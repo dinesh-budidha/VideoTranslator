@@ -2,7 +2,7 @@ import React from 'react';
 import VideoTranslator from '../components/VideoTranslator';
 
 const TranslatorPage: React.FC = () => {
-  const HF_TOKEN = "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";
+  const HF_TOKEN = "add your access token here";
 
   return (
     <div className="container mx-auto py-8">
